@@ -8,3 +8,8 @@
 
 >quote is here
 >>block is inside 
+
+
+tasklist:
+- [x] first learn dsa
+- [x] do eveyrday coding 
